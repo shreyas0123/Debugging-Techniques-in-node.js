@@ -1,0 +1,13 @@
+{
+  "name": "cleaning-up-code-in-node",
+  "version": "1.0.0",
+  "description": "complete node.js guide",
+  "main": "apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon apps.js",
+    "start-server": "node apps.js"
+  },
+  "author": "Shreyas A B",
+  "license": "ISC"
+}
